@@ -1,0 +1,1 @@
+redirect 302 /kevoworldwide/ https://kevoworldwide.squarespace.com
